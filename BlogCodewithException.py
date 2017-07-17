@@ -9,7 +9,7 @@ class MainControl:
             print (obj.blogpost())
 
         elif self.opt == 2:
-            print ("2. Retrieve the Content based on Title:")
+            print ("2. Retrieve the content based on title:")
             print (obj.content())
 
         else:
